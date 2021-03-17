@@ -1,16 +1,47 @@
-# bmi_calculator_app
+<p align="center">
+Show some love 💜 and Star ⭐️ the Repository to support the project.
+</p>
 
-A new Flutter application.
+|                 Home Screen               |                 Search Screen                |             
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| <img width="1604" src="screenshot1.jpg"> | <img width="1604" src="screenshot2.jpg"> | 
 
-## Getting Started
+## :bookmark_tabs: What’s In This Document
 
-This project is a starting point for a Flutter application.
+- [Get Up and Running in 5 Minutes](#rocket-get-up-and-running-in-5-minutes)
+- [Flutter / Dart Packages Used](#ballot_box-flutter--dart-packages-used)
+- [Queries / Bugs](#question-queries--bugs)
 
-A few resources to get you started if this is your first Flutter project:
+## :rocket: Get Up and Running in 5 Minutes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can get the Weather up and running on your local dev environment in 5 minutes with these four steps:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Install the Flutter SDK & Android Studio. [Instructions](https://medium.com/enappd/install-flutter-on-windows-and-mac-1fd1dde453ba).**
+
+2. **Open Terminal & navigate to the root directory of the project.**
+
+    ```shell
+    cd BMI-Calculator
+    ```
+
+3. **Run and launch the build on preferred device.**
+
+   ```shell
+   flutter run
+   ```
+
+4. **Open the source code and start editing!**
+
+   Your app is now running on your physical device or emulator. Open the `lib` directory in Android Studio itself and edit `*.dart` files. Hot Reload your changes, and the app will update in real time!
+
+At this point, you’ve got the fully functional EasyWeather App running. For additional information on how you can customize your Flutter Apps, see [Google Codelabs](https://codelabs.developers.google.com/codelabs/flutter/) and [HackerNoon Guide](https://hackernoon.com/making-the-most-of-flutter-from-basics-to-customization-433171581d01).
+
+## :ballot_box: Flutter / Dart Packages Used
+|    Package Name  	| Package Version 	|                           Package URL                          	|    Package Name      	| Package Version 	|                           Package URL                          	|
+|:----------------:	|:-------: |:-----------------------------------------------------------: |:-----------------: |:-----:	|:--------------------------------------------------------------:	|
+| cupertino_icons  	| 0.1.3    | [Open on pub.dev](https://pub.dev/packages/cupertino_icons)  | font_awesome_flutter               | 8.8.1 | [Open on pub.dev](https://pub.dev/packages/font_awesome_flutter)              	|
+
+## :question: Queries / Bugs
+If you got any queries or found a bug, open an [Issue](https://github.com/ritz1804/BMI-Calculator/issues/new) 
+
+## :purple_heart: Thanks
